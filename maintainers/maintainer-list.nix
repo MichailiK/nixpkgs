@@ -13080,6 +13080,11 @@
     github = "michaelshmitty";
     githubId = 114845;
   };
+  michailik = {
+    name = "MichailiK";
+    github = "MichailiK";
+    githubId = 39029839;
+  };
   michalrus = {
     email = "m@michalrus.com";
     github = "michalrus";
